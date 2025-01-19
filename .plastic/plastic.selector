@@ -1,0 +1,4 @@
+repository "VFX course - Assets Creation - UNATC@kobaini94@cloud"
+  path "/"
+    br "/main"
+    co "/main"
