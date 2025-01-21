@@ -17,10 +17,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 493
+    x: 486
     y: -190
-    width: 872
-    height: 2054
+    width: 879
+    height: 2074
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -225,7 +225,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614583}
   - {fileID: 8926484042661614585}
   dataType: 0
-  capacity: 300
+  capacity: 3000
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
@@ -616,7 +616,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":3.513725519180298,"g":11.043137550354004,"b":128.0,"a":1.0},"time":0.0},{"color":{"r":3.513725519180298,"g":11.043137550354004,"b":128.0,"a":1.0},"time":1.0}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":0.7921568751335144,"time":0.8592355251312256},{"alpha":0.0,"time":0.9970549941062927}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":3.513725519180298,"g":11.043137550354004,"b":128.0,"a":1.0},"time":0.0},{"color":{"r":3.513725519180298,"g":11.043137550354004,"b":128.0,"a":1.0},"time":0.843533992767334}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":0.7921568751335144,"time":0.8176546692848206},{"alpha":0.0,"time":0.9970549941062927}],"gradientMode":0}'
     m_Space: 2147483647
   m_Property:
     name: Color
@@ -2953,7 +2953,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 492.50272, y: 1498.6154}
+  m_UIPosition: {x: 495, y: 965}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -3010,7 +3010,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 493, y: 1666}
+  m_UIPosition: {x: 486, y: 1162}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -3104,7 +3104,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 703.57, y: 1629.32}
+  m_UIPosition: {x: 670, y: 1043}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
